@@ -24,6 +24,4 @@ Run trunk to serve content
 
 ```bash
 turnk serve
-# open in browser
-trunk serve --open
 ```
